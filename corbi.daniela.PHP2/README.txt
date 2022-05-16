@@ -2,6 +2,7 @@ Componenti del gruppo:
 -Daniela Corbi
 -Matteo Politi
 Repository Git-Hub:https://github.com/Daniela704/lweb2.git
+Indirizzo web-server:http://lweb.diag.uniroma1.it/~lweb14/corbi.daniela.PHP2/login.php
 Descrizione svolgimento:
 Per l'applicazione di ciò che è stato visto a lezione riguardo l'uso di PHP e MySQL abbiamo deciso di estendere il contributo 1, in modo 
 da rendere il nostro sito web dotato di pagina di login e di un quiz che permetta ai nostri utenti di testare la conoscenza degli argomenti 
